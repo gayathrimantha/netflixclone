@@ -20,7 +20,7 @@ const GameStack = () => {
     <View style={styles.buttonStyles}>
    
         <View style={styles.buttonStylesOne}>
-          <Text style={styles.textStyle}>{'\u2B24'} Shooter </Text>
+          <Text style={styles.textStyle}>{'\u2B24'} Thriller </Text>
           <Text style={styles.textStyle}>{'\u2B24'} Fantasy </Text>
           <Text style={styles.textStyle}>{'\u2B24'} Action </Text>
           <Text style={styles.textStyle}>{'\u2B24'} Adventure </Text>
